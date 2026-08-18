@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### T-14: User Login Page
 Provides secure login interface for users with credentials validation.
 **Status: Live in Production (v1.0.0)**
@@ -10,8 +10,7 @@ Adds a chart widget to the dashboard summarising tasks completed per week.
 ### T-16: Notification Center
 Adds an in-app notification centre with read/unread state and grouping by task.
 **Status: Implemented**
-=======
-\##T-14: User Login Page
+##T-14: User Login Page
 Provides secure login interface for users with credentials validation.
 **Status: Live in Production (v1.0.0)**
 
@@ -25,4 +24,9 @@ Provides secure login interface for users with credentials validation.
 
 **Status: Implemented**
 
->>>>>>> main
+
+
+### T-21: Fix Login Error Message (hotfix)
+Corrects the login form to show 'Incorrect email or password' instead of a raw server error code.
+**Status: Fixed**
+
